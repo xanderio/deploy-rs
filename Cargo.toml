@@ -33,7 +33,7 @@ tokio = { version = "1.21.2", features = [
         "time",
 ] }
 toml = "0.5"
-whoami = "1.2.3"
+whoami = "1.4.0"
 yn = "0.1"
 
 [lib]
