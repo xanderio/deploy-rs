@@ -32,7 +32,7 @@ tokio = { version = "1.21.2", features = [
         "fs",
         "time",
 ] }
-toml = "0.5"
+toml = "0.7"
 whoami = "1.2.3"
 yn = "0.1"
 
